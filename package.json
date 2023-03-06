@@ -1,0 +1,19 @@
+{
+  "name": "sass-starter-template",
+  "version": "1.0.0",
+  "description": "A Sass starter template",
+  "main": "index.js",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "keywords": [],
+  "author": "Allison Leggett",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.3",
+    "parcel": "^2.8.3",
+    "sass": "^1.58.3"
+  }
+}
